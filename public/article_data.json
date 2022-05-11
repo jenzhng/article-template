@@ -1,0 +1,96 @@
+{
+	"articles": [
+      {
+		  "id": 0,
+        "title": "Annual Marathon Happening Sunday",
+        "author": "Caspian Coffey",
+        "date": "2018-12-10T13:45:00.000Z",
+        "description": "Lace up and bring your friends and family.",
+        "images": [
+          "images/articles/marathon/p1.jpg"
+        ],
+        "url": "",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ullamcorper dolor nunc, quis ultricies ligula posuere eu. Nullam malesuada, ex nec scelerisque tincidunt, augue turpis facilisis odio, vitae fermentum nunc risus sit amet velit. Aenean dignissim erat ut urna semper facilisis. Phasellus non elit nibh. Donec et nisl quis metus ullamcorper interdum eu eget lacus. Nam porta nibh ut tortor luctus maximus. Morbi a tortor tincidunt, euismod ex et, lobortis sapien. Vivamus in felis aliquet, euismod lorem a, rutrum lacus. Aliquam quis pulvinar nunc. Cras nec quam interdum, pulvinar risus id, accumsan risus.\n\nEtiam gravida mollis ligula ut convallis. Phasellus ac eros non sem vestibulum sodales et quis dolor. Fusce malesuada laoreet libero id posuere. Mauris in ultrices risus, ut finibus ante. Suspendisse sodales risus egestas nunc vehicula, ac luctus ex placerat. Morbi elementum a mi ut mollis. Morbi et egestas tortor. Curabitur molestie tristique orci, quis eleifend mauris ornare nec. Suspendisse elementum felis ac augue consectetur malesuada. Curabitur vulputate mauris eget mi auctor, ut interdum tortor molestie. Suspendisse purus magna, pulvinar vel leo eu, scelerisque tincidunt quam. In ac mauris iaculis, scelerisque nibh vel, tempor ante. Curabitur sapien arcu, fermentum sit amet quam ac, pharetra tempor risus. Aliquam consectetur, erat nec dignissim venenatis, eros augue molestie sapien, vitae mollis nulla augue nec urna.\n\nPraesent turpis velit, laoreet non sodales sit amet, dignissim in sem. Etiam ut massa sit amet est facilisis interdum. Praesent in euismod tortor, ac porta elit. Mauris lectus nulla, sodales sit amet tellus sit amet, hendrerit ornare nulla. Nam felis purus, hendrerit id gravida sit amet, rhoncus ac quam. Aliquam ut quam lacus. Quisque rutrum dolor ex, dignissim pulvinar orci euismod vel. Nunc vitae massa fermentum, posuere enim vel, sagittis tortor. Vestibulum ligula nibh, congue in enim eget, mattis bibendum velit. Vestibulum lorem est, tristique at nibh sit amet, malesuada dapibus mauris. Proin quis urna purus. Integer neque nisi, finibus eu odio mattis, scelerisque hendrerit elit. Vivamus consectetur ornare vehicula."
+      },
+      {
+		  "id": 1,
+		  
+        "title": "Concerts Happening This Weekend",
+        "author": "Giovanni Roche",
+        "date": "2018-08-29T13:45:00.000Z",
+        "description": "See what shows are playing this week.",
+        "images": [
+          "images/articles/concert/p1.jpg"
+        ],
+        "url": "",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ullamcorper dolor nunc, quis ultricies ligula posuere eu. Nullam malesuada, ex nec scelerisque tincidunt, augue turpis facilisis odio, vitae fermentum nunc risus sit amet velit. Aenean dignissim erat ut urna semper facilisis. Phasellus non elit nibh. Donec et nisl quis metus ullamcorper interdum eu eget lacus. Nam porta nibh ut tortor luctus maximus. Morbi a tortor tincidunt, euismod ex et, lobortis sapien. Vivamus in felis aliquet, euismod lorem a, rutrum lacus. Aliquam quis pulvinar nunc. Cras nec quam interdum, pulvinar risus id, accumsan risus.\n\nEtiam gravida mollis ligula ut convallis. Phasellus ac eros non sem vestibulum sodales et quis dolor. Fusce malesuada laoreet libero id posuere. Mauris in ultrices risus, ut finibus ante. Suspendisse sodales risus egestas nunc vehicula, ac luctus ex placerat. Morbi elementum a mi ut mollis. Morbi et egestas tortor. Curabitur molestie tristique orci, quis eleifend mauris ornare nec. Suspendisse elementum felis ac augue consectetur malesuada. Curabitur vulputate mauris eget mi auctor, ut interdum tortor molestie. Suspendisse purus magna, pulvinar vel leo eu, scelerisque tincidunt quam. In ac mauris iaculis, scelerisque nibh vel, tempor ante. Curabitur sapien arcu, fermentum sit amet quam ac, pharetra tempor risus. Aliquam consectetur, erat nec dignissim venenatis, eros augue molestie sapien, vitae mollis nulla augue nec urna.\n\nPraesent turpis velit, laoreet non sodales sit amet, dignissim in sem. Etiam ut massa sit amet est facilisis interdum. Praesent in euismod tortor, ac porta elit. Mauris lectus nulla, sodales sit amet tellus sit amet, hendrerit ornare nulla. Nam felis purus, hendrerit id gravida sit amet, rhoncus ac quam. Aliquam ut quam lacus. Quisque rutrum dolor ex, dignissim pulvinar orci euismod vel. Nunc vitae massa fermentum, posuere enim vel, sagittis tortor. Vestibulum ligula nibh, congue in enim eget, mattis bibendum velit. Vestibulum lorem est, tristique at nibh sit amet, malesuada dapibus mauris. Proin quis urna purus. Integer neque nisi, finibus eu odio mattis, scelerisque hendrerit elit. Vivamus consectetur ornare vehicula."
+      },
+      {
+		  		  "id": 2,
+
+        "title": "Pet Adoption Event",
+        "author": "Arsalan Whitley",
+        "date": "2022-05-10T13:45:00.000Z",
+        "description": "Cats and Dogs adoption fees are waived; Bring home a new family member today.",
+        "images": [
+          "images/articles/adoption/p1.jpg"
+        ],
+        "url": "",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ullamcorper dolor nunc, quis ultricies ligula posuere eu. Nullam malesuada, ex nec scelerisque tincidunt, augue turpis facilisis odio, vitae fermentum nunc risus sit amet velit. Aenean dignissim erat ut urna semper facilisis. Phasellus non elit nibh. Donec et nisl quis metus ullamcorper interdum eu eget lacus. Nam porta nibh ut tortor luctus maximus. Morbi a tortor tincidunt, euismod ex et, lobortis sapien. Vivamus in felis aliquet, euismod lorem a, rutrum lacus. Aliquam quis pulvinar nunc. Cras nec quam interdum, pulvinar risus id, accumsan risus.\n\nEtiam gravida mollis ligula ut convallis. Phasellus ac eros non sem vestibulum sodales et quis dolor. Fusce malesuada laoreet libero id posuere. Mauris in ultrices risus, ut finibus ante. Suspendisse sodales risus egestas nunc vehicula, ac luctus ex placerat. Morbi elementum a mi ut mollis. Morbi et egestas tortor. Curabitur molestie tristique orci, quis eleifend mauris ornare nec. Suspendisse elementum felis ac augue consectetur malesuada. Curabitur vulputate mauris eget mi auctor, ut interdum tortor molestie. Suspendisse purus magna, pulvinar vel leo eu, scelerisque tincidunt quam. In ac mauris iaculis, scelerisque nibh vel, tempor ante. Curabitur sapien arcu, fermentum sit amet quam ac, pharetra tempor risus. Aliquam consectetur, erat nec dignissim venenatis, eros augue molestie sapien, vitae mollis nulla augue nec urna.\n\nPraesent turpis velit, laoreet non sodales sit amet, dignissim in sem. Etiam ut massa sit amet est facilisis interdum. Praesent in euismod tortor, ac porta elit. Mauris lectus nulla, sodales sit amet tellus sit amet, hendrerit ornare nulla. Nam felis purus, hendrerit id gravida sit amet, rhoncus ac quam. Aliquam ut quam lacus. Quisque rutrum dolor ex, dignissim pulvinar orci euismod vel. Nunc vitae massa fermentum, posuere enim vel, sagittis tortor. Vestibulum ligula nibh, congue in enim eget, mattis bibendum velit. Vestibulum lorem est, tristique at nibh sit amet, malesuada dapibus mauris. Proin quis urna purus. Integer neque nisi, finibus eu odio mattis, scelerisque hendrerit elit. Vivamus consectetur ornare vehicula." 
+   
+      }, 
+      {
+		  "id": 3,
+
+          "title": "Why Americans are Leaving Cities", 
+          "author": "Bea Stanley",
+          "date": "2017-11-09T13:45:00.000Z",
+          "description": "What is causing the mass migration?",
+          "images": [
+            "images/articles/migration/p1.jpg"
+          ],
+          "url": "",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ullamcorper dolor nunc, quis ultricies ligula posuere eu. Nullam malesuada, ex nec scelerisque tincidunt, augue turpis facilisis odio, vitae fermentum nunc risus sit amet velit. Aenean dignissim erat ut urna semper facilisis. Phasellus non elit nibh. Donec et nisl quis metus ullamcorper interdum eu eget lacus. Nam porta nibh ut tortor luctus maximus. Morbi a tortor tincidunt, euismod ex et, lobortis sapien. Vivamus in felis aliquet, euismod lorem a, rutrum lacus. Aliquam quis pulvinar nunc. Cras nec quam interdum, pulvinar risus id, accumsan risus.\n\nEtiam gravida mollis ligula ut convallis. Phasellus ac eros non sem vestibulum sodales et quis dolor. Fusce malesuada laoreet libero id posuere. Mauris in ultrices risus, ut finibus ante. Suspendisse sodales risus egestas nunc vehicula, ac luctus ex placerat. Morbi elementum a mi ut mollis. Morbi et egestas tortor. Curabitur molestie tristique orci, quis eleifend mauris ornare nec. Suspendisse elementum felis ac augue consectetur malesuada. Curabitur vulputate mauris eget mi auctor, ut interdum tortor molestie. Suspendisse purus magna, pulvinar vel leo eu, scelerisque tincidunt quam. In ac mauris iaculis, scelerisque nibh vel, tempor ante. Curabitur sapien arcu, fermentum sit amet quam ac, pharetra tempor risus. Aliquam consectetur, erat nec dignissim venenatis, eros augue molestie sapien, vitae mollis nulla augue nec urna.\n\nPraesent turpis velit, laoreet non sodales sit amet, dignissim in sem. Etiam ut massa sit amet est facilisis interdum. Praesent in euismod tortor, ac porta elit. Mauris lectus nulla, sodales sit amet tellus sit amet, hendrerit ornare nulla. Nam felis purus, hendrerit id gravida sit amet, rhoncus ac quam. Aliquam ut quam lacus. Quisque rutrum dolor ex, dignissim pulvinar orci euismod vel. Nunc vitae massa fermentum, posuere enim vel, sagittis tortor. Vestibulum ligula nibh, congue in enim eget, mattis bibendum velit. Vestibulum lorem est, tristique at nibh sit amet, malesuada dapibus mauris. Proin quis urna purus. Integer neque nisi, finibus eu odio mattis, scelerisque hendrerit elit. Vivamus consectetur ornare vehicula."
+        }, 
+        {
+		  "id": 4,
+
+            "title": "Fine Wine and Dine",
+            "author": "Margot Howarth",
+            "date": "2020-10-31T13:45:00.000Z",
+            "description": "New bars and restaurants for a fun night out.",
+            "images": [
+              "images/articles/restaurant/p1.jpg"
+            ],
+            "url": "",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ullamcorper dolor nunc, quis ultricies ligula posuere eu. Nullam malesuada, ex nec scelerisque tincidunt, augue turpis facilisis odio, vitae fermentum nunc risus sit amet velit. Aenean dignissim erat ut urna semper facilisis. Phasellus non elit nibh. Donec et nisl quis metus ullamcorper interdum eu eget lacus. Nam porta nibh ut tortor luctus maximus. Morbi a tortor tincidunt, euismod ex et, lobortis sapien. Vivamus in felis aliquet, euismod lorem a, rutrum lacus. Aliquam quis pulvinar nunc. Cras nec quam interdum, pulvinar risus id, accumsan risus.\n\nEtiam gravida mollis ligula ut convallis. Phasellus ac eros non sem vestibulum sodales et quis dolor. Fusce malesuada laoreet libero id posuere. Mauris in ultrices risus, ut finibus ante. Suspendisse sodales risus egestas nunc vehicula, ac luctus ex placerat. Morbi elementum a mi ut mollis. Morbi et egestas tortor. Curabitur molestie tristique orci, quis eleifend mauris ornare nec. Suspendisse elementum felis ac augue consectetur malesuada. Curabitur vulputate mauris eget mi auctor, ut interdum tortor molestie. Suspendisse purus magna, pulvinar vel leo eu, scelerisque tincidunt quam. In ac mauris iaculis, scelerisque nibh vel, tempor ante. Curabitur sapien arcu, fermentum sit amet quam ac, pharetra tempor risus. Aliquam consectetur, erat nec dignissim venenatis, eros augue molestie sapien, vitae mollis nulla augue nec urna.\n\nPraesent turpis velit, laoreet non sodales sit amet, dignissim in sem. Etiam ut massa sit amet est facilisis interdum. Praesent in euismod tortor, ac porta elit. Mauris lectus nulla, sodales sit amet tellus sit amet, hendrerit ornare nulla. Nam felis purus, hendrerit id gravida sit amet, rhoncus ac quam. Aliquam ut quam lacus. Quisque rutrum dolor ex, dignissim pulvinar orci euismod vel. Nunc vitae massa fermentum, posuere enim vel, sagittis tortor. Vestibulum ligula nibh, congue in enim eget, mattis bibendum velit. Vestibulum lorem est, tristique at nibh sit amet, malesuada dapibus mauris. Proin quis urna purus. Integer neque nisi, finibus eu odio mattis, scelerisque hendrerit elit. Vivamus consectetur ornare vehicula."
+          }, 
+          {
+		  "id": 5,
+
+              "title": "Museums with Free Admission This Month",
+              "author": "Zaina Ford",
+              "date": "2019-04-11T13:45:00.000Z",
+              "description": "See which museums are free to visit this month.",
+              "images": [
+                "images/articles/museum/p1.jpg"
+              ],
+              "url": "",
+              "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ullamcorper dolor nunc, quis ultricies ligula posuere eu. Nullam malesuada, ex nec scelerisque tincidunt, augue turpis facilisis odio, vitae fermentum nunc risus sit amet velit. Aenean dignissim erat ut urna semper facilisis. Phasellus non elit nibh. Donec et nisl quis metus ullamcorper interdum eu eget lacus. Nam porta nibh ut tortor luctus maximus. Morbi a tortor tincidunt, euismod ex et, lobortis sapien. Vivamus in felis aliquet, euismod lorem a, rutrum lacus. Aliquam quis pulvinar nunc. Cras nec quam interdum, pulvinar risus id, accumsan risus.\n\nEtiam gravida mollis ligula ut convallis. Phasellus ac eros non sem vestibulum sodales et quis dolor. Fusce malesuada laoreet libero id posuere. Mauris in ultrices risus, ut finibus ante. Suspendisse sodales risus egestas nunc vehicula, ac luctus ex placerat. Morbi elementum a mi ut mollis. Morbi et egestas tortor. Curabitur molestie tristique orci, quis eleifend mauris ornare nec. Suspendisse elementum felis ac augue consectetur malesuada. Curabitur vulputate mauris eget mi auctor, ut interdum tortor molestie. Suspendisse purus magna, pulvinar vel leo eu, scelerisque tincidunt quam. In ac mauris iaculis, scelerisque nibh vel, tempor ante. Curabitur sapien arcu, fermentum sit amet quam ac, pharetra tempor risus. Aliquam consectetur, erat nec dignissim venenatis, eros augue molestie sapien, vitae mollis nulla augue nec urna.\n\nPraesent turpis velit, laoreet non sodales sit amet, dignissim in sem. Etiam ut massa sit amet est facilisis interdum. Praesent in euismod tortor, ac porta elit. Mauris lectus nulla, sodales sit amet tellus sit amet, hendrerit ornare nulla. Nam felis purus, hendrerit id gravida sit amet, rhoncus ac quam. Aliquam ut quam lacus. Quisque rutrum dolor ex, dignissim pulvinar orci euismod vel. Nunc vitae massa fermentum, posuere enim vel, sagittis tortor. Vestibulum ligula nibh, congue in enim eget, mattis bibendum velit. Vestibulum lorem est, tristique at nibh sit amet, malesuada dapibus mauris. Proin quis urna purus. Integer neque nisi, finibus eu odio mattis, scelerisque hendrerit elit. Vivamus consectetur ornare vehicula."
+            }, 
+            {
+		  "id": 6,
+
+                "title": "New Movie Releases and Television Air-Dates",
+                "author": "Selina Tyson",
+                "date": "2021-07-03T13:45:00.000Z",
+                "description": "See what's new on streaming, television, and in theaters",
+                "images": [
+                  "images/articles/streaming/p1.jpg"
+                ],
+                "url": "",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ullamcorper dolor nunc, quis ultricies ligula posuere eu. Nullam malesuada, ex nec scelerisque tincidunt, augue turpis facilisis odio, vitae fermentum nunc risus sit amet velit. Aenean dignissim erat ut urna semper facilisis. Phasellus non elit nibh. Donec et nisl quis metus ullamcorper interdum eu eget lacus. Nam porta nibh ut tortor luctus maximus. Morbi a tortor tincidunt, euismod ex et, lobortis sapien. Vivamus in felis aliquet, euismod lorem a, rutrum lacus. Aliquam quis pulvinar nunc. Cras nec quam interdum, pulvinar risus id, accumsan risus.\n\nEtiam gravida mollis ligula ut convallis. Phasellus ac eros non sem vestibulum sodales et quis dolor. Fusce malesuada laoreet libero id posuere. Mauris in ultrices risus, ut finibus ante. Suspendisse sodales risus egestas nunc vehicula, ac luctus ex placerat. Morbi elementum a mi ut mollis. Morbi et egestas tortor. Curabitur molestie tristique orci, quis eleifend mauris ornare nec. Suspendisse elementum felis ac augue consectetur malesuada. Curabitur vulputate mauris eget mi auctor, ut interdum tortor molestie. Suspendisse purus magna, pulvinar vel leo eu, scelerisque tincidunt quam. In ac mauris iaculis, scelerisque nibh vel, tempor ante. Curabitur sapien arcu, fermentum sit amet quam ac, pharetra tempor risus. Aliquam consectetur, erat nec dignissim venenatis, eros augue molestie sapien, vitae mollis nulla augue nec urna.\n\nPraesent turpis velit, laoreet non sodales sit amet, dignissim in sem. Etiam ut massa sit amet est facilisis interdum. Praesent in euismod tortor, ac porta elit. Mauris lectus nulla, sodales sit amet tellus sit amet, hendrerit ornare nulla. Nam felis purus, hendrerit id gravida sit amet, rhoncus ac quam. Aliquam ut quam lacus. Quisque rutrum dolor ex, dignissim pulvinar orci euismod vel. Nunc vitae massa fermentum, posuere enim vel, sagittis tortor. Vestibulum ligula nibh, congue in enim eget, mattis bibendum velit. Vestibulum lorem est, tristique at nibh sit amet, malesuada dapibus mauris. Proin quis urna purus. Integer neque nisi, finibus eu odio mattis, scelerisque hendrerit elit. Vivamus consectetur ornare vehicula."
+              }
+    ]
+	
+}

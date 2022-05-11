@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap");
+
+body {
+  background: linear-gradient(
+    45deg,
+    hsl(272deg 75% 65%) 0%,
+    hsl(193deg 100% 50%) 50%,
+    hsl(162deg 84% 88%) 100%
+  );
+}
+
+.App {
+  font-family: "Lexend Deca", sans-serif;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  justify-content: center;
+  align-items: center;
+  user-select: none;
+  
+}
+
+h1 {
+  color: white;
+  font-size: 48px;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  font-family: "Lexend Deca", sans-serif;
+  background: white;
+  border: none;
+  padding: 15px;
+  font-size: 18px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+}
+
+button:hover {
+  background: #e6e6e6;
+  cursor: pointer;
+}
+
+button:active {
+  background: #c3c3c3;
+}
+
+button > svg {
+  margin-left: 10px;
+}
