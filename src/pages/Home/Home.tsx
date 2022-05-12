@@ -10,7 +10,7 @@ const Home = ({artData}:	any) => {
           <div id='box'>
 
 {artData.map((data:any, key:string) => {
-  var link = "./articles-" + key;
+  var link = "/article-template/#/articles-" + key;
 return (
 
 <li key={key} >

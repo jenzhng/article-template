@@ -1,9 +1,12 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useCallback } from 'react';
 import { Routes, Route } from 'react-router-dom';
 import './App.css';
-import { BrowserRouter as Router, NavLink, useParams } from "react-router-dom";
+import { HashRouter, NavLink, useParams } from "react-router-dom";
 import Banner from "./components/Banner/Banner";
 import Footer from "./components/Footer/Footer";
+import HeaderDesktop from "./components/HeaderDesktop/HeaderDesktop";
+import HeaderMobile from "./components/HeaderMobile/HeaderMobile";
+import NotFound from "./components/NotFound/NotFound";
 import Home from "./pages/Home/Home";
 import Article from "./pages/Article/Article";
 import Contact from "./pages/Contact/Contact";
@@ -29,14 +32,17 @@ interface aData {
 
 
 
-
-
-
 const App= () => {
   const { id } = useParams();
   const [replay, setReplay] = useState(true);
   const [articleData, setData] = useState<allData[]>([]);
 
+  const [windowWidth, setWindowSize] = useState(window.innerWidth)
+  const handleWindowResize = useCallback((event: any) => {
+
+    setWindowSize(window.innerWidth);
+
+}, []); 
   
 
 useEffect(() => {
@@ -49,40 +55,33 @@ useEffect(() => {
 	 
    }); 
   }
-
-
   loadArticleData();
 
-}, []);
+  window.addEventListener('resize', handleWindowResize);
+
+    return () => {
+      window.removeEventListener('resize', handleWindowResize);
+    };
+
+}, [handleWindowResize]);
+
+
+
 
   return (
     <>
-    <Banner text="DAILY NEWS" replay={replay} />
-      <nav className="navigation desktop">
-            <ul className="navigation-list">
-              <li className="navigation-list--item">
-                <a href='/'>HOME</a>
-
-              </li>
-            
-              <li className="navigation-list--item">
-              <a href='./contact'>CONTACT</a>
-              </li>
-              <li className="navigation-list--item">
-              <a href='about'>ABOUT</a>
-              </li>
-              
-            </ul>
-          </nav> 
+    
+    {windowWidth > 650 ? <HeaderDesktop/> : <HeaderMobile/>}    
+      
            
           <div>
         <Routes>
-
-          <Route index element={<Home artData={articleData}/>} />
+        <Route index element={<Home artData={articleData}/>} />
+         
           <Route path="articles-:id" element={<Article artData={articleData}/>} />
           <Route path="contact" element={<Contact/>} />
           <Route path="about" element={<About/>} />
-
+		      <Route path="*" element={<NotFound/>} />
         </Routes>
        
           </div>

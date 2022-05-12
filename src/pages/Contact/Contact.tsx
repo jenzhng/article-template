@@ -6,9 +6,9 @@ const Contact = () => {
   
   return (
    <>
-   
-     <form className = "contact">
-       <h2>CONTACT US</h2>
+   <h2 id="contact">CONTACT US</h2>
+     <form className = "contact" >
+       
        <div className="row">
        <div className="col-25">
        <label id="fname">First Name*</label>
